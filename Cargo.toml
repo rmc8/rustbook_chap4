@@ -1,0 +1,12 @@
+[package]
+name = "Chap4"
+version = "0.1.0"
+authors = ["mikohei <mikohei@amazon.co.jp>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.36"
+clap = "3.0.0-beta.1"
+thiserror = "1.0.23"
